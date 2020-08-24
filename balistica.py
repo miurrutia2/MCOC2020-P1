@@ -89,7 +89,7 @@ plt.ylabel("Y (m)")
 plt.title("Trayectoria para distintos vientos")
 plt.tight_layout()
 plt.legend()
-plt.savefig("Balistica.png", dpi=600)
+plt.savefig("Balistica.png", dpi=150)
 plt.show()
     
     
